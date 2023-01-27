@@ -1,11 +1,11 @@
 let fs = require('fs')
 global.botnamecon = '𝙂𝞗𝞙𝙐 𝞛𝘿'
-global.owner = ['918590508376'] // Put your number to /src/owner.json
-global.tagowner = ['918590508376'] // Put your number
-global.mods = ['918590508376'] // Want some help?
+global.owner = ['254711107992'] // Put your number to /src/owner.json
+global.tagowner = ['25471107992'] // Put your number
+global.mods = ['254711107992'] // Want some help?
 global.thumbt = fs.readFileSync('./KakashiMedia/kakashi.jpg')
 global.fsx = 999999999999
-global.contact = ['918590508376', 'Ajmal', true]
+global.contact = ['254711107992', 'Moha 🗿🚬', true]
 global.APIs = { // API Prefix
   // name: 'https://website'
   turboapis: 'https://turboapis.herokuapp.com',
@@ -39,13 +39,13 @@ global.APIKeys = { // APIKey Here
 }
 
 global.linkyt = 'instagram.com/__ajfx'
-global.WM = '𝙂𝞗𝞙𝙐 𝞛𝘿 𝞑𝙔 𝞓𝙅𝞛𝞓𝙇-𝞦𝟬'
-global.linkgc = 'instagram.com/__ajfx'
-global.linkig = 'instagram.com/__ajfx'
+global.WM = '𝙂𝞗𝞙𝙐'
+global.linkgc = 'instagram.com/mohammed_.abdulrahman'
+global.linkig = 'instagram.com/dark_hunter254'
 global.deslink = ''
 global.logo = 'https://telegra.ph/file/1665521d176fbf172d735.jpg'
-global.titlink = 'instagram.com/__ajfx'
-global.bodlink = 'instagram.com/__ajfx'
+global.titlink = 'instagram.com/mohammed_.abdulrahman'
+global.bodlink = 'instagram.com/mohammed_.abdulrahman'
 global.wait = 'Pʟᴇᴀsᴇ Wᴀɪᴛ A Mɪɴᴜᴛᴇ ...'
 global.eror = 'Error Please Report To Developers'
 
@@ -55,7 +55,7 @@ global.url = global.linkgc
 
 //============= callButtons ============//
 global.callname = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.callnumber = '918590508376'
+global.callnumber = '254796032440'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
