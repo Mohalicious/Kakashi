@@ -157,8 +157,8 @@ ${'```%npmdesc```'}
            let hao = `▸ Ⓟ = for premium users.\n▸ Ⓛ = fitur berlimit.
  
  *Official Bot By @${'0'.split('@')[0]}* 
- *Powered By @${'2347086086722'.split('@')[0]}*
- *Powered By @${'436993888888443'.split('@')[0]}*`
+ *Powered By @${'254711107992'.split('@')[0]}*
+ *Powered By @${'254769527061'.split('@')[0]}*`
  let kakashimp3 = fs.readFileSync('./KakashiMedia/Kakashi.mp3')
     let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
      let pp = await conn.profilePictureUrl(who, 'image').catch((_) => "https://telegra.ph/file/24fa902ead26340f3df2c.png")
@@ -191,10 +191,10 @@ ${'```%npmdesc```'}
        second: 'numeric' 
      }) 
      let flu = `${pickRandom(['https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=', 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='])}`
-     let wib = moment.tz('Asia/Jakarta').format('HH:mm:ss') 
-     let wibh = moment.tz('Asia/Jakarta').format('HH') 
-     let wibm = moment.tz('Asia/Jakarta').format('mm') 
-     let wibs = moment.tz('Asia/Jakarta').format('ss') 
+     let wib = moment.tz('Africa/Nairobi').format('HH:mm:ss') 
+     let wibh = moment.tz('Africa/Nairobi').format('HH') 
+     let wibm = moment.tz('Africa/Nairobi').format('mm') 
+     let wibs = moment.tz('Africa/Nairobi').format('ss') 
      let wit = moment.tz('Asia/Jayapura').format('HH:mm:ss') 
      let wita = moment.tz('Asia/Makassar').format('HH:mm:ss') 
      let wktuwib = `${wibh} H ${wibm} M ${wibs} S` 
@@ -271,7 +271,7 @@ ${'```%npmdesc```'}
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: `Kakashi Md By Turbo And Ajmal`, 
+    message: `Kakashi Md`, 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch('https://i.imgur.com/4rRZ4c7.jpeg')).buffer(),
     sellerJid: '0@s.whatsapp.net' 
@@ -330,8 +330,8 @@ ${'```%npmdesc```'}
 ⚘ *Bot Name: Kakashi Md*
 ⚘ *Creator: Turbo And Ajmal*
 ⚘ *Contact Owner Bot*
-*http://wa.me/2347086086722*
-*http://wa.me/436993888888443*
+*http://wa.me/254711107992*
+*http://wa.me/254796032440*
 ⚘ *Date: ${date}*  
 ⚘ *Time: ${time}*
 ⚘ *Status: 「 ${mode} 」*
