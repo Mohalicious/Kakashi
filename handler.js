@@ -41,11 +41,11 @@ module.exports = {
         global.colong1 = 'Kakashi Md'
         global.colong2 = 'By Turbo & Ajmal'
         global.kontak2 = [
-        ['916380260672', 'Turbo Mods', 'Bot Creator', 'turbobusiness0@gmail.com', true],
-        ['918590508376', 'Ajmal', 'Bot Creator', 'turbobusiness0@gmail.com', true]
+        ['254769527061', 'Spike', 'Bot Creator', 'ovibeldonbel@gmail.com', true],
+        ['522464800112', 'Spike', 'Bot Creator', 'spike3572@gmail.com', true]
         ]
         global.bg = await (await fetch(img)).buffer()
-        global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
+        global.time = require('moment-timezone').tz('Africa/Nairobi').format('HH:mm:ss')
 
         if (!m) return
         //console.log(JSON.stringify(m, null, 4))
