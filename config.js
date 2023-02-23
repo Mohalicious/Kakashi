@@ -1,8 +1,8 @@
 let fs = require('fs')
 global.botnamecon = '𝙂𝞗𝞙𝙐 𝞛𝘿'
-global.owner = ['254711107992'] // Put your number to /src/owner.json
-global.tagowner = ['25471107992'] // Put your number
-global.mods = ['254711107992'] // Want some help?
+global.owner = ['254769527061'] // Put your number to /src/owner.json
+global.tagowner = ['254769527061'] // Put your number
+global.mods = ['254769527061'] // Want some help?
 global.thumbt = fs.readFileSync('./KakashiMedia/kakashi.jpg')
 global.fsx = 999999999999
 global.contact = ['254711107992', 'Moha 🗿🚬', true]
