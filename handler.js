@@ -32,14 +32,14 @@ module.exports = {
         global.fla = pickRandom(global.flaaa)
         global.namabot = global.botnamecon
         global.packname = 'Kakashi Md'
-        global.author = 'Made By Turbo And Ajmal'
+        global.author = 'Made By Mohamed And Malik'
         global.packname2 = 'Made With'
         global.author2 = 'Kakashi Md By Turbo & Ajmal'
-        global.wm3 = 'Kakashi Whatapp Md Made By Turbo & Ajmal'
-        global.wm2 = 'Kakashi Md' + ' ' + 'By Turbo And Ajmal'
+        global.wm3 = 'Kakashi Whatapp Md Made By Mohamed & Malik'
+        global.wm2 = 'Kakashi Md' + ' ' + 'By Mohamed And Malik'
         global.wm = 'Kakashi Md'
         global.colong1 = 'Kakashi Md'
-        global.colong2 = 'By Turbo & Ajmal'
+        global.colong2 = 'By Mohamed & Malik'
         global.kontak2 = [
         ['254769527061', 'Spike', 'Bot Creator', 'ovibeldonbel@gmail.com', true],
         ['522464800112', 'Spike', 'Bot Creator', 'spike3572@gmail.com', true]
