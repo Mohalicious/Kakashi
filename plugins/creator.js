@@ -31,7 +31,7 @@ let handler = async(m, { conn }) => {
   return conn.sendButtonDoc(m.chat, `Huh how @${await m.sender.split('@')[0]}, Thats my owners number, dont spam it ^_^`, 'Thats my owner, bro, dont be shy to chat ;3','Credits', '.tqto', m, { quoted: conn.p[id][0],
     contextInfo: { //forwardingScore: 99999, isForwarded: true,
         externalAdReply: { //showAdAttribution: true,
-        	sourceUrl: 'https://instagram.com/',
+        	sourceUrl: 'https://github.com.com/Mohalicious',
             title: 'Kakashi Md <3',
             body: 'mohamed',
           thumbnail: await (await fetch(pp)).buffer()
