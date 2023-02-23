@@ -157,8 +157,8 @@ ${'```%npmdesc```'}
            let hao = `▸ Ⓟ = for premium users.\n▸ Ⓛ = fitur berlimit.
  
  *Official Bot By @${'0'.split('@')[0]}* 
- *Powered By @${'254711107992'.split('@')[0]}*
- *Powered By @${'254769527061'.split('@')[0]}*`
+ *Powered By @${'254769527061'.split('@')[0]}*
+ *Powered By @${'254796032440'.split('@')[0]}*`
  let kakashimp3 = fs.readFileSync('./KakashiMedia/Kakashi.mp3')
     let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
      let pp = await conn.profilePictureUrl(who, 'image').catch((_) => "https://telegra.ph/file/24fa902ead26340f3df2c.png")
@@ -289,7 +289,7 @@ ${'```%npmdesc```'}
          setTimeout(resolve, 1000) 
        }) * 1000 
      } 
-     let emot = `${pickRandom(['❤️','🔥','🇮🇳','🐦','🐧','🦄'])}` 
+     let emot = `${pickRandom(['❤️','🔥','🇰🇪','🐦','🐧','🦄'])}` 
      let menuvideo = fs.readFileSync('./KakashiMedia/menu.mp4')
      let muptime = clockString(_muptime) 
      let uptime = clockString(_uptime) 
@@ -328,9 +328,9 @@ ${'```%npmdesc```'}
 ●────━───༺༻───━────●
                 *《 BOT INFO 》*
 ⚘ *Bot Name: Kakashi Md*
-⚘ *Creator: Turbo And Ajmal*
+⚘ *Creator: Mohamed And Malik*
 ⚘ *Contact Owner Bot*
-*http://wa.me/254711107992*
+*http://wa.me/254769527061*
 *http://wa.me/254796032440*
 ⚘ *Date: ${date}*  
 ⚘ *Time: ${time}*
@@ -410,14 +410,14 @@ return conn.send2ButtonVid(m.chat, menuvideo, ori, ` *I Am Kakashi The Copy Ninj
       externalAdReply: {
       showAdAttribution: true
       }}}}}}, {})
-//await conn.send3ButtonLoc(m.chat, await conn.resize(await (await fetch('https://api.xteam.xyz/textpro/glitch?text=' + teks + '&text2=Kakashi%20Md%20BY%20Turbo%20And%20Ajmal&APIKEY=bf8ff984af1506b7')).buffer(), 300, 200), '◈┈┉────[ *DASHBOARD* ]────┉┈◈' , text.trim(), 'Owner', '.owner', 'Donasi', '.donasi', 'Rules', '.rules', m)
+//await conn.send3ButtonLoc(m.chat, await conn.resize(await (await fetch('https://api.xteam.xyz/textpro/glitch?text=' + teks + '&text2=Kakashi%20Md%20BY%20Spike%20And%20Ajmal&APIKEY=bf8ff984af1506b7')).buffer(), 300, 200), '◈┈┉────[ *DASHBOARD* ]────┉┈◈' , text.trim(), 'Owner', '.owner', 'Donasi', '.donasi', 'Rules', '.rules', m)
 //await conn.send2ButtonLoc(m.chat, await conn.resize(await (await fetch(flu + teks)).buffer(), 300, 200), text.trim(), `Active During : ${uptime}\n${week} ${date}\n${dateIslamic}`, 'Owner', `${_p}owner`, 'Donasi', `${_p}donasi`, m)
 //await conn.send2ButtonImg(m.chat, await (await fetch(`${logos()}`)).buffer(), '──────────[ *DASHBOARD* ]──────────', text, 'OWNER', '.owner', '\n\nI Am Kakashi The Copy Ninja I Know A 1000 Jutsu I Am Going To Use Them All꒪꒳꒪', 'a', fkon, { contextInfo: { forwardingScore: 999, isForwarded: true}})
 /*await conn.send2ButtonDoc(m.chat, '──────────[ *DASHBOARD* ]──────────', text, 'OWNER', '.owner', 'Rules', '.rules', m, { 
      quoted: ftoko, 
      contextInfo: { forwardingScore: 99999, isForwarded: true, 
          externalAdReply: { 
-             title: 'Kakashi Md Testing Project By Turbo And Ajmal', 
+             title: 'Kakashi Md Testing Project By Malik And Mohamed', 
              body: `${pickRandom(['Kakashi Md'])}`, 
              description: `${pickRandom(['Kakashi Md'])}`, 
              mediaType: 2, 
@@ -439,10 +439,10 @@ ptt: true, contextInfo:{ externalAdReply: { title: `Kakashi Whatsapp Md Bot`, bo
  handler.help = ['menu', 'help', '?']  
  handler.tags = ['main'] 
  handler.command = /^(m(enu)?|help|\?)$/i   
- handler.owner = false 
- handler.mods = false 
+ handler.owner = true 
+ handler.mods = true 
  handler.premium = false 
- handler.group = false 
+ handler.group = true 
  handler.private = false 
   
  handler.admin = false 
