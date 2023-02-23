@@ -5,7 +5,7 @@ global.tagowner = ['254769527061'] // Put your number
 global.mods = ['254769527061'] // Want some help?
 global.thumbt = fs.readFileSync('./KakashiMedia/kakashi.jpg')
 global.fsx = 999999999999
-global.contact = ['254711107992', 'Moha 🗿🚬', true]
+global.contact = ['254769527061', 'Moha 🗿🚬', true]
 global.APIs = { // API Prefix
   // name: 'https://website'
   turboapis: 'https://turboapis.herokuapp.com',
